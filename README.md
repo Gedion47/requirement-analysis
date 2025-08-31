@@ -46,7 +46,7 @@ Non-functional Requirements:
 
 # Use Case Diagrams
 Use case diagrams are visual representations of the interactions between users (actors) and a system, illustrating the system’s functionality from the user’s perspective. They show who can do what with the system and how different features or processes are connected. The main benefits include clarifying system requirements, helping stakeholders and developers understand user interactions, and identifying system boundaries and responsibilities. They are especially useful for communicating requirements early in the software development lifecycle.
-<img width="1536" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/1c41df42-d6f9-40bc-961f-efb254e29656" />
+![alx-booking-uc](alx-booking-uc.png)
 
 # Acceptance Criteria
 Acceptance criteria are a critical part of requirement analysis because they define the specific conditions that a product or feature must meet to be considered complete and acceptable by stakeholders. They serve as a bridge between the business requirements and the development team’s implementation, ensuring clarity and shared understanding.
