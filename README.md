@@ -2,7 +2,7 @@
 # Requirement Analysis in Software Development
 This repository is dedicated to documenting, organizing, and analyzing software requirements for projects. It serves as a central place to capture functional requirements, non-functional requirements, user stories, and acceptance criteria.
 
-## What is Requirements Analysis?
+## What is Requirement Analysis?
 _Requirement Analysis is the process of identifying, gathering, analyzing, and documenting the needs and expectations of stakeholders for a software system. It is the first and most critical step in the Software Development Lifecycle (SDLC).
 
 This phase ensures that developers, designers, and stakeholders share a clear, common understanding of what the system should achieve before actual coding begins._
